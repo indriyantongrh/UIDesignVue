@@ -1,4 +1,4 @@
-# Landing Page Template
+# Landing Page Acarain
 
 ## Project setup
 
@@ -18,10 +18,3 @@ npm run serve
 npm run build
 ```
 
-### Live preview
-
-See [Vuetify Landing Page Template](https://landingpagecalangoweb.web.app/).
-
-### Customize configuration
-
-See [Configuration Reference](https://cli.vuejs.org/config/).
