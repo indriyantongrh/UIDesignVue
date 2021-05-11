@@ -25,7 +25,7 @@ jobs:
     runs-on: ubuntu-latest
     environment: 
         name: dev
-        url: 'demo.acarain.com'
+        url: 'http://demo.acarain.com'
     needs : build
     steps:
       - name: Run a one-line script
