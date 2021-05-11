@@ -55,8 +55,8 @@ export default {
     home,
     about,
     scroll,
-    download,
-    pricing,
+    // download,
+    // pricing,
     // contact
   },
 

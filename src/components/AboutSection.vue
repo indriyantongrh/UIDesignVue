@@ -118,14 +118,7 @@ export default {
           category: "Seminar",
           text: "Lorem ipsum dolor sit amet consectetur adipisicing elit."
         },
-           {
-          img: "http://api-beta.acarain.com/images_event/image_picker909976312009677068-1610113351.jpg",
-          title: "Código Aberto",
-            attended: "30 Hadir",
-          date: "09/01/2021",
-          category: "Seminar",
-          text: "Lorem ipsum dolor sit amet consectetur adipisicing elit."
-        }, 
+           
       ]
     };
   },
